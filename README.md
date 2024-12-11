@@ -20,3 +20,5 @@ required.
 [dashboard]: https://app.netlify.com/sites/keda
 [deploy preview]: https://www.netlify.com/blog/2016/07/20/introducing-deploy-previews-in-netlify/
 [keda.sh]: https://keda.sh
+
+making an edit.
